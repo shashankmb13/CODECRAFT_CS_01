@@ -53,18 +53,6 @@ ttk Widgets
 
 Built-in libraries only — no external dependencies
 
-📥 Installation & Running the Application
-1️⃣ Clone the repository
-git clone https://github.com/yourusername/Caesar-Cipher-GUI.git
-
-2️⃣ Navigate to project folder
-cd Caesar-Cipher-GUI
-
-3️⃣ Run the application
-python main.py
-
-
-That's it — the GUI will open instantly!
 
 🎮 How to Use
 
